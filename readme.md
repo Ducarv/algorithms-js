@@ -19,6 +19,7 @@ Here's a list of algorithms currently included in this repository:
 
 1. **Binary Search**: An efficient search algorithm to find an element in a sorted array.
 2. **Selection Sort**: Simple, inefficient sorting. Repeatedly picks smallest, appends to sorted.
+3. **Recursion**: A programming technique where a function calls itself directly or indirectly to solve a problem. It involves breaking a problem down into smaller, similar subproblems until a base case is reached for which the solution is known. Commonly used in algorithms like recursive traversal of data structures or solving problems like calculating factorials.
 
 Feel free to explore these algorithms and their implementations in JavaScript.
 
