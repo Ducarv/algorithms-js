@@ -19,6 +19,8 @@ Here's a list of algorithms currently included in this repository:
 
 1. **Binary Search**: An efficient search algorithm to find an element in a sorted array.
 2. **Selection Sort**: Simple, inefficient sorting. Repeatedly picks smallest, appends to sorted.
+3. **Recursion**: A technique where a function calls itself to solve a problem by breaking it down into smaller, similar subproblems.
+4. **QuickSort**: A highly efficient sorting algorithm that uses the "Divide and Conquer" approach to sort elements in an array or list.
 
 Feel free to explore these algorithms and their implementations in JavaScript.
 
