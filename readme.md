@@ -19,7 +19,9 @@ Here's a list of algorithms currently included in this repository:
 
 1. **Binary Search**: An efficient search algorithm to find an element in a sorted array.
 2. **Selection Sort**: Simple, inefficient sorting. Repeatedly picks smallest, appends to sorted.
-3. **Recursion**: A programming technique where a function calls itself directly or indirectly to solve a problem. It involves breaking a problem down into smaller, similar subproblems until a base case is reached for which the solution is known. Commonly used in algorithms like recursive traversal of data structures or solving problems like calculating factorials.
+3. **Recursion**: A technique where a function calls itself to solve a problem by breaking it down into smaller, similar subproblems.
+4. **QuickSort**: A highly efficient sorting algorithm that uses the "Divide and Conquer" approach to sort elements in an array or list.
+5. **hash table** is a data structure that offers an efficient way to store and retrieve values based on keys. It is widely used in programming due to its speed in data retrieval. This JavaScript implementation of a hash table uses an array as the underlying structure.
 
 Feel free to explore these algorithms and their implementations in JavaScript.
 
